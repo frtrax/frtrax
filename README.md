@@ -29,5 +29,8 @@ Pour cela il y a mon portfolio : https://portfolio-trax.netlify.app/
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/frtrax?country.x=FR&locale.x=fr_FR) 
 
   
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 [![](https://visitcount.itsvg.in/api?id=frtrax&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
