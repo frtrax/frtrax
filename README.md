@@ -25,8 +25,6 @@ Pour cela il y a mon portfolio : https://portfolio-trax.netlify.app/
 ![](https://github-contributor-stats.vercel.app/api?username=frtrax&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=frtrax&icon=2&color=12)](https://visitcount.itsvg.in)
-
   ## 💰 Vous pouvez m'aider en faisant un don
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/frtrax?country.x=FR&locale.x=fr_FR) 
 
